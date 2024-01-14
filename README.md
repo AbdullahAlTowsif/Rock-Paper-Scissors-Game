@@ -1,5 +1,5 @@
-Rock Paper Scissors Game
-Language Used:
--> HTML
--> CSS
+Rock Paper Scissors Game. <br>
+Language Used: <br>
+-> HTML <br>
+-> CSS <br>
 -> JavaScript
